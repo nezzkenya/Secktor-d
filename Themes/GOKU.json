@@ -7,7 +7,7 @@
     "updater": {
     "UPDATE": "Your bot is already on latest version Buddy",
     "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
-    "UPDATED_LOCAL": Fresh Updates Installed!"
+    "UPDATED_LOCAL": "Fresh Updates Installed!"
     },
     "global": {
     "botName": " Powered by 🅽🅴🆉🆉",
